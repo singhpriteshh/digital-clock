@@ -21,8 +21,10 @@
     font-size: 60px;
     letter-spacing: 8px;
     transition: .3s;
+    box-shadow: 5px 5px 5px whitesmoke;
 }
 
 .clock:hover{
     transform: scale(1.2);
+    box-shadow: 10px 10px 10px whitesmoke;
 }
