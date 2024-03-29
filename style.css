@@ -21,7 +21,7 @@
     font-size: 60px;
     letter-spacing: 8px;
     transition: .3s;
-    box-shadow: 5px 5px 5px whitesmoke;
+    box-shadow: 5px 5px 5px rgb(157, 157, 157);
 }
 
 .clock:hover{
